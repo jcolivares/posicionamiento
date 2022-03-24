@@ -1,0 +1,14 @@
+span {
+    border: 1px solid green;
+    box-shadow: 10px 10px 10px red;
+    width: 30%;
+    height: 20%;
+    display: inline-block;
+    float: right;
+}
+
+/*
+#caja2 {
+    float: right;
+}
+*/
