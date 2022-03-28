@@ -11,9 +11,11 @@ function main(){
     
 }
 
-window.addEventListener(main(), "load", false)
+//window.addEventListener(main(), "load", false)
 
 function presioname(){
     alert("entrando...")
     var sem = document.getElementById("semestre");
 }
+
+window.addEventListener("load", main)
