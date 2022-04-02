@@ -1,0 +1,17 @@
+/*Ejemplo de estilos*/
+
+.par{
+    background-color: black;
+    color: white;
+}
+
+.impar{
+    background-color: red;
+    color: yellow;
+}
+
+input:focus{
+    font-size: 36pt;
+    color: red;
+    background: yellow;
+}
